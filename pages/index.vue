@@ -17,7 +17,7 @@
           offset-xl="3"
         >
       <div class="mt-3">
-        เมนู:
+        เมนู:  
         <div class="btn-group" role="group" aria-label="Basic example">
           <button type="button" :class="[page === 1 ? 'active btn btn-primary' : 'btn btn-secondary']" @click="page = 1" >เงินได้</button>
           <!-- <button type="button" :class="[page === 2 ? 'active btn btn-primary' : 'btn btn-secondary']" @click="page = 2" :disabled="checkPage">ลดหย่อน</button> -->
