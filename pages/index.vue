@@ -183,7 +183,7 @@
             </colgroup>
             <b-tbody>
               <b-tr>
-                <b-td>1. เงินเดือน ค่าจ้าง โบนัส บำนาญ อื่นๆ :</b-td>
+                <b-td>1. เงินเดือน ค่าจ้าง โบนัส บำนาญ อื่นๆ  :</b-td>
                 <b-td
                   ><b-form-input :value="form2dis1" disabled type="number"></b-form-input
                 ></b-td>
